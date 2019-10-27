@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name is31fl3731)(type Legacy)(uri C:/Users/dtnra/Documents/_RADAR/keyboard_parts.pretty-master/is31fl3731.lib)(options "")(descr ""))
+  (lib (name keyboard_test_lib)(type Legacy)(uri ${KIPRJMOD}/keyboard_test_lib.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "${KIPRJMOD}/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+)
